@@ -1,2 +1,5 @@
 # hell-world
-ただのリポジトリ
+
+Hi Humans!
+
+I like xx. I live in xx.
